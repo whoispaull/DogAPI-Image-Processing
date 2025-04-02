@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#json-data {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  width: 50%;
+  text-align: left;
+  white-space: pre;
+}
+
+#image-canvas {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+#json-time, #image-time {
+  margin: 20px;
+  font-size: 0.8em;
+  color: #999;
+}
+
+#image-canvas{
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
